@@ -1,0 +1,234 @@
+#container{
+	height: 6500px;
+	background-color:whitesmoke;
+	
+}
+.first-row{
+	height: 52px;
+	width: 100%;
+	background-color: white;
+	line-height: 52px;
+}
+.Fashion{
+	height: 52px;
+	width: 50%;
+	float: left;
+	text-align: left;
+	/*background-color: black;*/
+	font-family: jokker-man;
+	
+	/*line-height: 45px;*/
+}
+.link{
+	height: 52px;
+	width: 50%;
+	float: left;
+	text-align: right;
+	font-family: jokker-man;
+	/*padding-bottom: 250px;*/
+	/*line-height: 5px;*/
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+input{
+	width: 30%;
+	color: white;
+	height: 50px;
+}
+.bg-image{
+	background-image:url('../images/bot.jfif');
+	height: 550px;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+.second-row{
+	height: 50px;
+	background-color: gold;
+}
+.boy{
+	height: 150px;
+	float: left;
+	text-align: left;
+	font-family: jokker-man;
+}
+.third-row{
+	text-align: center;
+	background-color: gold;
+}
+	img{
+		border-radius: 10px;
+	}
+}
+.left{
+height: 450px;
+text-align: left;
+float: left;
+}
+.pic{
+	border-radius: 15px;
+}
+img{
+	image-rendering: auto;
+	object-fit: contain;
+}
+.dad{
+	height: 100px;
+	text-align: left;
+	float: left;
+	width: 33%;
+	padding-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.as{
+	height: 100px;
+	text-align: left;
+	float: left;
+	width: 33%;
+	padding-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.sas{
+	height: 100px;
+	text-align: left;
+	float: right;
+	width: 33%;
+	padding-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.bat{
+	height: 180px;
+	width: 50%;
+	text-align: left;
+	float: left;
+}
+.paynow{
+	height: 100px;
+	width: 50%;
+	text-align: left;
+	float: left;
+}
+.fourth-row{
+	height: 450px;
+	background-color: white;
+}
+.fifth-row{
+	height: 250px;
+	background-color: white;
+}
+.sixth-row{
+	height: 350px;
+	background-color:white;
+}
+.left1{
+	height: 350px;
+	text-align: left;
+	float: left;
+	margin-bottom: 155px;
+	width: 50%;
+}
+.right1{
+	height: 350px;
+	text-align: right;
+	float: right;
+	margin-bottom: 155px;
+	width: 50%;
+}
+.seventh-row{
+	height: 450px;
+	background-color: white;
+}
+.dad1{
+	height: 100px;
+	text-align: left;
+	float: left;
+	width: 33%;
+	padding-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-left:15px;
+}
+.sad1{
+	height: 100px;
+	text-align: right;
+	float: right;
+	width: 33%;
+	padding-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-right: 15px;
+}
+.eighth-row{
+	height: 450px;
+	background-color: white;
+}
+.f1{
+	height: 450px;
+	display: flex;
+	justify-content: space-between;
+}
+.ninth-row{
+	height: 500px;
+	background-color: white;
+}
+.tenth-row{
+	height: 850px;
+	background-color: yellow;
+	text-align: center;
+}
+.bag{
+    width: 10%;
+    border-radius: 5px;
+}
+.eleventh-row{
+	height: 550px;
+	background-color:white;
+	padding-top: 5px;
+	text-align: left;
+}
+.fas{
+	height: 550px;
+	width: 50%;
+	text-align: left;
+	float: left;
+	padding-left: 75px;
+	padding-top: 85px;
+}
+.ul{
+	height: 550px;
+	width: 150%;
+	text-align: right;
+	float:right;
+	padding-right: 280px;
+	padding-bottom: 999px;
+	margin-top: 25px;
+}
+.twelveth-row{
+	height: 550px;
+	background-color:#1C1A0A;
+	padding-top: 5px;
+}
+.tenth-row input{
+	width:50%;
+	height: 50px;
+}
+.f5{
+	width: 2%;
+	text-align: center;
+}
+.video-box{
+	width: 300px;
+}
+.video-box video{
+	width: 100px;
+	border-radius: 10px;
+	height: 200px;
+}
+.thirteen{
+	height: 200px;
+	background-color: blueviolet;
+}
